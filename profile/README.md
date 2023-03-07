@@ -1,3 +1,14 @@
+<pre>
+                  ___   ___                               
+   ___ ___  _ __ |  _| |_  |_   _  _____  __
+  / __/ _ \| '_ \| |     | | | | |/ _ \ \/ /
+ | (_| (_) | | | | |     | | |_| |  __/>  < 
+  \___\___/|_| |_| |_   _| |\__,_|\___/_/\_\
+                 |___| |___|                
+                          \|                         
+</pre>
+
+
 ## Hi there 👋 it's us - Your Team, Better.
 
 We love teams. Our people work, play, and celebrate together. We love meeting new teams and creating that same bond with them. 
